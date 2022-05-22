@@ -1,0 +1,6 @@
+/Users/kriptokek/RiderProjects/Arbitrary_Array/bin/Debug/Arbitrary_Array.exe
+/Users/kriptokek/RiderProjects/Arbitrary_Array/bin/Debug/Arbitrary_Array.pdb
+/Users/kriptokek/RiderProjects/Arbitrary_Array/obj/Debug/Arbitrary_Array.csprojAssemblyReference.cache
+/Users/kriptokek/RiderProjects/Arbitrary_Array/obj/Debug/Arbitrary_Array.csproj.CoreCompileInputs.cache
+/Users/kriptokek/RiderProjects/Arbitrary_Array/obj/Debug/Arbitrary_Array.exe
+/Users/kriptokek/RiderProjects/Arbitrary_Array/obj/Debug/Arbitrary_Array.pdb

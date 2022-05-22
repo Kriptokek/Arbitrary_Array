@@ -1,0 +1,11 @@
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/bin/Debug/Tests.dll
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/bin/Debug/Tests.pdb
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/bin/Debug/Arbitrary_Array.exe
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/bin/Debug/nunit.framework.dll
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/bin/Debug/Arbitrary_Array.pdb
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/bin/Debug/nunit.framework.xml
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/obj/Debug/Tests.csprojAssemblyReference.cache
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/obj/Debug/Tests.csproj.CopyComplete
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/obj/Debug/Tests.dll
+/Users/kriptokek/RiderProjects/Arbitrary_Array/Tests/Tests/obj/Debug/Tests.pdb
